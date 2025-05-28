@@ -9,7 +9,10 @@
     
     <!--all the contents of your page go here, inside the body-->
     <body>
-	
+	<div id="base1"> 
+									
+		<h2> Titulo Principal da primeira area</h2>
+	</div>
 
   
     </body>
